@@ -821,11 +821,11 @@ font-size: 21px;
 }
 
 .copyright a {
-     color: #fff;
+     color: #2bcc91;
 }
 
 .copyright a:hover {
-     color: #2bcc91;
+     color: #fff;
 }
 
 
