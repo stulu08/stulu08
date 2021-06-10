@@ -268,7 +268,7 @@ button {
 /*-- navigation--*/
 
 .navigation.navbar {
-     float: right;
+     float: center;
      padding-top: 12px;
      border-radius: 26px;
      position: fixed;
@@ -291,7 +291,7 @@ button {
 .navigation.navbar-dark .navbar-nav .nav-link.active,
 .navigation.navbar-dark .navbar-nav .nav-link.show,
 .navigation.navbar-dark .navbar-nav .show>.nav-link {
-     color: #fdd430;
+     color: #fff;
 }
 
 .navbar-expand-md .navbar-nav {
