@@ -276,7 +276,7 @@ button {
 }
 
 .navigation.navbar-dark .navbar-nav .nav-link {
-     padding: 0 0px;
+     padding: 0 25px;
      font-size: 16px;
      line-height: 20px;
      text-transform: uppercase;
