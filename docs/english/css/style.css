@@ -270,6 +270,7 @@ button {
 .navigation.navbar {
      float: right;
      padding-top: 12px;
+     position: fixed;
 }
 
 .navigation.navbar-dark .navbar-nav .nav-link {
