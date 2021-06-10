@@ -274,7 +274,7 @@ button {
 
 .navigation.navbar-dark .navbar-nav .nav-link {
      padding: 0 25px;
-     color: #fff;
+     color: #000;
      font-size: 16px;
      line-height: 20px;
      text-transform: uppercase;
@@ -282,7 +282,7 @@ button {
 
 .navigation.navbar-dark .navbar-nav .nav-link:focus,
 .navigation.navbar-dark .navbar-nav .nav-link:hover {
-     color: #000;
+     color: #fff;
 }
 
 .navigation.navbar-dark .navbar-nav .active>.nav-link,
