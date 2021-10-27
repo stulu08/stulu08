@@ -16,9 +16,9 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="C++" width="26px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
 <img align="left" alt="Visual Studio" width="26px" src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" />
 <img align="left" alt="Unity" width="26px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />
-<img align="left" alt="C++" width="26px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
 <img align="left" alt="C#" width="26px" src="https://www.brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" />
 <img align="left" alt="Java" width="40px" src="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
