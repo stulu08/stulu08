@@ -56,7 +56,7 @@
 
 </details>
 
-[website]: https://derstulu.wixsite.com/website
+[website]: https://stulu.de
 [youtube]: https://www.youtube.com/channel/UCr_Rjcub4u1K99PrCR4ODUA
 [discord]: https://discord.gg/6kej26V
 [twitch]: https://www.twitch.tv/stulu08
