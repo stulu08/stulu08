@@ -7,7 +7,6 @@
 
 [<img align="left" alt="Stulu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Stulu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Stulu | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="Stulu | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="Stulu | Sololearn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][sololearn]
 <!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
@@ -34,19 +33,7 @@
 <br />
 <br />
 
----
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Rewind 2020](https://www.youtube.com/watch?v=xq96Pb2yLdU)
-- [38 min of NCS Music](https://www.youtube.com/watch?v=FEoEvSmtmPQ)
-- [Wie man mit Adobe After Effects ein Audio Spectrum Waveform Effect erstellt](https://www.youtube.com/watch?v=UAtuUby2HaI)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCr_Rjcub4u1K99PrCR4ODUA)
-
----
 
 
 <details>
@@ -58,7 +45,6 @@
 
 [website]: https://stulu.de
 [youtube]: https://www.youtube.com/channel/UCr_Rjcub4u1K99PrCR4ODUA
-[discord]: https://discord.gg/6kej26V
 [twitch]: https://www.twitch.tv/stulu08
 [sololearn]: https://www.sololearn.com/Profile/12945216
 <!--stackedit_data:
